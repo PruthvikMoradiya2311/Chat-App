@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880753344004",
+    "project_id": "meetme-94d5b",
+    "storage_bucket": "meetme-94d5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880753344004:android:6dab6904d583d65c843f51",
+        "android_client_info": {
+          "package_name": "com.example.meetme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880753344004-quvr63hgl34lgk3a2tjm1q7ptmu4fq3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuFl_xeeUcqktncSz7j3y0x3o9KEvXC40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880753344004-quvr63hgl34lgk3a2tjm1q7ptmu4fq3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
